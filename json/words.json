@@ -1,0 +1,20 @@
+{
+    "index": {
+        "dontExist": "Indentifiant incorrect."
+    },
+    "guide": {
+        "alreadyExist": "Cette ID est déjà utilisé pour un client.",
+        "successful": "La session a étais créée avec succes.",
+        "successfulDelete": "La session a étais suprimé avec succes.",
+        "alreadyExistFile": "Ce fichier est déjà en ligne :",
+        "changeStatut": "Le statut a bien étais changer.",
+        "errorDelImage": "L'image ne peu pas étre suprimer quand le sesion est ouvert.",
+        "delImage": "L'image a bien étais suprimer."
+    },
+    "admin": {
+        "successfulModif": "La modification a bien été effectuer.",
+        "alreadyExist": "Ce guide exist déjà.",
+        "successful": "Le guide a étais créée avec succes.",
+        "successfulSup": "Le guide a bien étais suprémer"
+    }
+}
